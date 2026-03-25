@@ -14,6 +14,12 @@ function Footer() {
             className="mt-2 inline-flex text-sm text-white/75 transition hover:text-[#D4AF37]"
           >
             hello@kotta.io
+          </a><br />
+          <a
+            href="+91 9567526947"
+            className="mt-2 inline-flex text-sm text-white/75 transition hover:text-[#D4AF37]"
+          >
+            +91 9567526947
           </a>
         </div>
 
